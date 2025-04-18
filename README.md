@@ -15,7 +15,8 @@ A simple desktop password manager built with Python's Tkinter GUI library. Easil
 ---
 
 ## Screenshots
-![resim](https://github.com/user-attachments/assets/ea59411d-0102-467e-b01a-f95341c44465)
+![resim](https://github.com/user-attachments/assets/396de205-2d9c-420b-8695-e2d47b5acb54)
+
 
 ---
 
